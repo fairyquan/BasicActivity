@@ -19,7 +19,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 /**
- * version:gitee1.0
+ * version:github&gitee
  */
 public class MainActivity extends AppCompatActivity {
 
